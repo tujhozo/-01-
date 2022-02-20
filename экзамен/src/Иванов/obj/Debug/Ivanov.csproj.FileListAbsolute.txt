@@ -1,0 +1,10 @@
+C:\Users\tujh\Desktop\экзамен\src\Иванов\bin\Debug\aaa.exe.config
+C:\Users\tujh\Desktop\экзамен\src\Иванов\bin\Debug\aaa.exe
+C:\Users\tujh\Desktop\экзамен\src\Иванов\bin\Debug\aaa.pdb
+C:\Users\tujh\Desktop\экзамен\src\Иванов\obj\Debug\ekz.Form1.resources
+C:\Users\tujh\Desktop\экзамен\src\Иванов\obj\Debug\aaa.Properties.Resources.resources
+C:\Users\tujh\Desktop\экзамен\src\Иванов\obj\Debug\aaa.exe
+C:\Users\tujh\Desktop\экзамен\src\Иванов\obj\Debug\aaa.pdb
+C:\Users\tujh\Desktop\экзамен\src\Иванов\obj\Debug\Ivanov.csproj.AssemblyReference.cache
+C:\Users\tujh\Desktop\экзамен\src\Иванов\obj\Debug\Ivanov.csproj.GenerateResource.cache
+C:\Users\tujh\Desktop\экзамен\src\Иванов\obj\Debug\Ivanov.csproj.CoreCompileInputs.cache
